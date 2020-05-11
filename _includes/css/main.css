@@ -49,7 +49,7 @@ hr.star-primary {
 
 hr.star-light:after,
 hr.star-primary:after {
-    content: "\f005";
+    /* content: "\f005"; */
     display: inline-block;
     position: relative;
     top: -.8em;
@@ -84,13 +84,13 @@ header {
     text-align: center;
     color: #fff;
     background: #{{ site.color.primary }};
-    background-image: url(img/computer_desk.jpg);
+    background-image: url(img/devdesign_desk.jpg);
+    background-size: cover;
 }
 
 header .container {
     padding-top: 100px;
     padding-bottom: 50px;
-
 }
 
 header img {
@@ -143,6 +143,7 @@ header .intro-text .skills {
 
     .navbar-fixed-top.navbar-shrink {
         padding: 10px 0;
+        background-color: #323335;
     }
 
     .navbar-fixed-top.navbar-shrink .navbar-brand {
