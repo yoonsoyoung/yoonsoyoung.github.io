@@ -84,12 +84,13 @@ header {
     text-align: center;
     color: #fff;
     background: #{{ site.color.primary }};
+    background-image: url(img/computer_desk.jpg);
 }
 
 header .container {
     padding-top: 100px;
     padding-bottom: 50px;
-    background-image: url(/img/computer_desk.jpg);
+
 }
 
 header img {
