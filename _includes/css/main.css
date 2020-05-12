@@ -36,6 +36,7 @@ h6 {
     font-weight: 700;
 }
 
+hr.star-point,
 hr.star-light,
 hr.star-primary {
     margin: 25px auto 30px;
@@ -47,6 +48,7 @@ hr.star-primary {
     overflow: visible;
 }
 
+hr.star-point:after,
 hr.star-light:after,
 hr.star-primary:after {
     /* content: "\f005"; */
@@ -56,6 +58,9 @@ hr.star-primary:after {
     padding: 0 .25em;
     font-family: FontAwesome;
     font-size: 2em;
+}
+hr.star-point {
+  border-color: #{{site.color.primary}};
 }
 
 hr.star-light {
@@ -185,9 +190,11 @@ section h2 {
 
 section.success {
     color: #fff;
-    background: #{{ site.color.primary }};
+    background: #{{ site.color.secondary }};
 }
-
+.text-point {
+  color: #{{site.color.primary}};
+}
 @media(max-width:767px) {
     section {
         padding: 75px 0;
