@@ -230,7 +230,7 @@ section h3.section-subheading{
 }
 
 .timeline>li {
-    position: relative;
+    position: static;
     margin-bottom: 50px;
     min-height: 50px;
 }
@@ -247,7 +247,7 @@ section h3.section-subheading{
 
 .timeline>li .timeline-panel {
     float: right;
-    position: relative;
+    position: absolute;
     width: 100%;
     padding: 0 20px 0 100px;
     text-align: left;
