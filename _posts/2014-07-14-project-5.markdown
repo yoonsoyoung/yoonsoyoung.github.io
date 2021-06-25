@@ -1,11 +1,11 @@
 ---
 layout: default
-modal-id: 내가사는그집
+modal-id: 6
 date: 2014-07-14
 img: happyhouse.png
-alt: image-alt
+alt: 내가사는그집
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: 부동산 매매 실거래가 데이터 활용 동별 상가 통계치를 포함한 아파트 매매 정보 웹 서비스
 ---

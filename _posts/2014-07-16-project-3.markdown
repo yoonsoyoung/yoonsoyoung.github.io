@@ -1,11 +1,11 @@
 ---
 layout: default
-modal-id: 조선대여기it
+modal-id: 3
 date: 2014-07-16
 img: chosunUnivApp.png
-alt: image-alt
+alt: 조선대여기it
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: 조선대학교 정보 App
 ---
