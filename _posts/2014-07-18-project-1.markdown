@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: 보고정해it
+modal-id: 1
 date: 2014-07-18
 img: bogo.png
 alt: image-alt
