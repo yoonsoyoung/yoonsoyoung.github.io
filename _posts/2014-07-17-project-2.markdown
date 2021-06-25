@@ -1,8 +1,8 @@
 ---
 layout: default
-modal-id: 2
+modal-id: My Melody Maker
 date: 2014-07-17
-img: bogo.PNG
+img: MMM.PNG
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
