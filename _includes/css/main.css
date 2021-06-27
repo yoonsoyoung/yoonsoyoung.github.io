@@ -496,6 +496,10 @@ section h3.section-subheading{
     }
 }
 
+.post_desc {
+    text-align: left;
+}
+
 .btn-outline {
     margin-top: 15px;
     border: solid 2px #fff;
